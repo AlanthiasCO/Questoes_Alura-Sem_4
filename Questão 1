@@ -1,0 +1,6 @@
+
+Pergunta:
+O que é necessário fazer para garantirmos que os atributos da classe Conta não sejam acessados de forma direta em outra classe a qual não seja a própria classe Conta?
+Resposta:
+Utilizar o modificador PRIVATE nos atributos da classe Conta, assim, outras classes não podem acessar e modificar os atributos diretamente.
+
