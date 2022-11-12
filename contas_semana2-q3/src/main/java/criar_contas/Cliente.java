@@ -20,13 +20,12 @@ public class Cliente {
 		this.cpf = cpf;
 	}
 
+	public void getNome() {
+		System.out.println("Nome do cliente: " + this.nome);
+	}
 
  	public void setNome(String nome) {
 		this.nome = nome;
-	}
- 	
-	public String getNome() {
-		return nome;
 	}
 
 	public void getEmail() {
