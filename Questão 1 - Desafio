@@ -1,0 +1,2 @@
+Resposta:
+A vaiável X não pode ser acessada por não ser do tipo static, pois o método main() é um método static e só consegue acessar variavéis static.
